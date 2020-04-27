@@ -12,7 +12,7 @@ This is a basic WAMP stack environment built using Docker Compose. It consists f
 Clone this repository on your local computer. Run the `docker-compose up`.
 
 ```shell
-git clone https://github.com/solodyagin/docker-compose-wamp.git
+git clone https://github.com/CsharpIsLife/docker-compose-wamp.git
 cd docker-compose-wamp/
 git fetch --all
 docker-compose up
